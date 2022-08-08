@@ -19,4 +19,5 @@ This contains all files for an ESP32 based WiFi BBQ thermometer.
 * **8x** M3 20mm bolt
 * **16x** M3 nut
 
-![IMG_20220808_184548](https://user-images.githubusercontent.com/17710384/183473305-9569a57a-0f7a-42f9-92e9-2ed56e68061e.jpg)
+![IMG_20220808_184548](https://user-images.githubusercontent.com/17710384/183513691-59ea857b-efd9-44df-8801-435f9e275a52.jpg)
+![Screenshot_4](https://user-images.githubusercontent.com/17710384/183514274-e77dc0e8-d003-4eea-9e06-9df97459f18d.png)
